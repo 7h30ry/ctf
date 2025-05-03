@@ -1,1 +1,1 @@
-alert('xss');
+<img src=x onerror=alert('XSS');>
